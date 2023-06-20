@@ -1,1 +1,1 @@
-//your JS code here. If required.
+document.getElementById('browser-info').innerText = `You are using ${navigator.appName} version ${navigator.appVersion}`;
